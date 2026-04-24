@@ -2,8 +2,8 @@
 #include "webserver.h"
 
 // Vul hier je eigen WiFi in
-const char* ssid = "JOUW_WIFI_NAAM";
-const char* password = "JOUW_WACHTWOORD";
+const char* ssid = "Orange-c45e3";
+const char* password = "9n4rRKN3";
 
 void setup() {
   Serial.begin(115200);
