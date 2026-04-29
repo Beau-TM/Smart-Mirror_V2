@@ -1,5 +1,5 @@
-#ifndef WEBSERVER_H
-#define WEBSERVER_H
+#ifndef WEBSERVER_TAB_H
+#define WEBSERVER_TAB_H
 
 void setupWebServer();
 void handleWebServer();
